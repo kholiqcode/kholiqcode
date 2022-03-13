@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kholiq</h1>
-<h3 align="center">Student at State Polytechnic of Jember, Indonesia🌟.</h3>
-
+<div align=center>
+    <img src="https://raw.githubusercontent.com/kholiqcode/kholiqcode/main/animation_500_kxa883sd.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+</div>
+<div align=center>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Kholiq+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer" alt="Headline" />
+    </div>
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=kholiqcode-pw&label=Profile%20views&color=0e75b6&style=flat"
@@ -8,8 +11,6 @@
   </p>
 
 <br>
-
-<p><img align="right" src="https://raw.githubusercontent.com/kholiqcode/kholiqcode/main/animation_500_kxa883sd.gif" alt="kholiqcode" /></p>
 
 
 - 🌱 I’m currently learning Web,Mobile Development and other programming languages
