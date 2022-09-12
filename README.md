@@ -77,12 +77,4 @@
       height="40" /> </a> </p>
 
 <br>
-
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://raw.githubusercontent.com/kholiqcode/kholiqcode/main/profile-3d-contrib/profile-green-animate.svg"
-    alt="kholiq" 
-    bg_color=#808080/></p>
-
-<br>
 [Kholiq](https://github.com/kholiqcode)
