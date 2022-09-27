@@ -26,12 +26,6 @@
   <a href="https://www.linkedin.com/in/kholiq/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="kholiq" height="30" width="40" /></a>
-  <a href="https://fb.com/kholiq321" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="kholiq" height="30" width="40" /></a>
-  <a href="https://instagram.com/aw.kholiq" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="kholiq" height="30" width="40" /></a>
 </p>
 
 <br>
