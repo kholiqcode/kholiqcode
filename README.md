@@ -13,7 +13,7 @@
 <br>
 
 
-- 🌱 I’m currently learning Web,Mobile Development and other programming languages
+- 🌱 I’m currently learning Web,Mobile,Machine Learning Development and other programming languages
 
 - 📫 How to reach me **kholiqdev@icloud.com**
 
